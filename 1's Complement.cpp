@@ -5,7 +5,7 @@ public:
     string onesComplement(string S,int N){
         //code here
         
-        //string temp ="";
+        //string temp =""; 
         
         for (int i=0; i<S.length(); i++){
             
