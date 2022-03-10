@@ -6,6 +6,7 @@ int kThSmallestFactor(int N , int K) {
         int ans1=0;
         
         for (int i=1; i<=N; i++){
+		
             if (N%i==0){
                 
                 ans.push_back(i);
